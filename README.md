@@ -44,6 +44,10 @@ kannycicada3301invest@protonmail.com – Founder Private Use
 
 asisiphocicada3301invest@protonmail.com – Co-Founder Private Use
 
+🌐 Mission Statement
+"Cicada 3301 Corporations is building a secure, decentralized, and legally integrated world where cybersecurity, African heritage,
+civic rights, and storytelling converge for the empowerment of global communities."
+
 ⚙️ Site Status
 This GitHub repo powers the free, decentralized public site for Cicada 3301 Corporations.
 Hosted via GitHub Pages under open-source architecture and blockchain-aligned design.
